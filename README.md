@@ -1,2 +1,2 @@
-# REST-Server
+# HTTP Server
 Custom HTTP Server
